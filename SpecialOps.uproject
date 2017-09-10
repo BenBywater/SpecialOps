@@ -1,0 +1,13 @@
+{
+	"FileVersion": 3,
+	"EngineAssociation": "4.15",
+	"Category": "",
+	"Description": "",
+	"Modules": [
+		{
+			"Name": "SpecialOps",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		}
+	]
+}
